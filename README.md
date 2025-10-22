@@ -74,6 +74,5 @@ Few pages consists of Benchmark filter where u can filter based on last year or 
 
 ### Lets connect
 
-<a href="https://www.linkedin.com/in/nishanth-nalanagula/" target="_blank">
-  <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Free-PNG-Image.png" alt="LinkedIn" width="100">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishanthNalanagula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-nalanagula/)
